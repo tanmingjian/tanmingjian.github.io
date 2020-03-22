@@ -1,0 +1,14 @@
+{
+  "name": "tanmingjian.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.4.0",
+    "vuepress-theme-reco": "^1.3.2"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  }
+}
